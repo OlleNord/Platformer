@@ -1,0 +1,8 @@
+* {
+    margin: 0px;
+}
+
+canvas {
+    background-color: black;
+    display: none;
+}
